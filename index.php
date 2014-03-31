@@ -178,7 +178,7 @@ session_start();
 		</div>
 		<div id="dummy"></div>
 		<div id="dummy2"></div>
-        <div id="jam"><blink>Hubungi Astender.com atau wajatmaka@gmail.com jika terjadi Error</blink><br><br>By wajatmaka</div>
+        <div id="jam"><blink>Untuk melihat demo program hubungi wajatmaka@gmail.com</blink><br><br>By wajatmaka</div>
                    
 </body>
 <script type="text/javascript" src="js/jquery-1.4.2.min.js"></script>
