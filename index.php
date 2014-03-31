@@ -6,7 +6,7 @@ session_start();
 <!DOCTYPE html>
 <html>
 <head>
-    <title>Kepegawaian BBPPK - Lembang Jawa Barat</title>
+    <title>Kepegawaian Wajatmaka</title>
      <link rel="shortcut icon" href="favicon.ico" type="image/x-icon">  
     <meta http-equiv="Content-Type" content="text/html; charset=iso-8859-1" />		
 		<script type="text/javascript" src="js/jquery-1.4.2.min.js"></script>
